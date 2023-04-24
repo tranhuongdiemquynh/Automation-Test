@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Chức năng cửa hàng - thêm vào giỏ - xem giỏ thông qua liên kết mặt hàng</description>
+   <name>Test Case11</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d370e720-9cd7-4046-a9cb-0350e012bae2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7d57fab7-0cdd-48b1-ba88-f22734f58b20</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1aa712c7-0e76-4017-93ab-ff0e83812619</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4510aa9b-980f-4e51-821c-643da7bc517f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2ca2b80b-32d7-4df3-a8ae-2235476e25d7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>30573482-dcd3-4abb-b147-7a04cc452ccf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>da6ffd2d-77fb-4534-822e-df5383251bed</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Quỳnh'</defaultValue>
+      <description></description>
+      <id>7d57fab7-0cdd-48b1-ba88-f22734f58b20</id>
+      <masked>false</masked>
+      <name>firstname</name>
+   </variable>
+   <variable>
+      <defaultValue>'Trần'</defaultValue>
+      <description></description>
+      <id>1aa712c7-0e76-4017-93ab-ff0e83812619</id>
+      <masked>false</masked>
+      <name>lastname</name>
+   </variable>
+   <variable>
+      <defaultValue>'quynhtran20072001@gmail.com'</defaultValue>
+      <description></description>
+      <id>4510aa9b-980f-4e51-821c-643da7bc517f</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'0914271452'</defaultValue>
+      <description></description>
+      <id>2ca2b80b-32d7-4df3-a8ae-2235476e25d7</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+   <variable>
+      <defaultValue>'64/11 Bạch Đằng'</defaultValue>
+      <description></description>
+      <id>30573482-dcd3-4abb-b147-7a04cc452ccf</id>
+      <masked>false</masked>
+      <name>address</name>
+   </variable>
+   <variable>
+      <defaultValue>'Quy Nhơn'</defaultValue>
+      <description></description>
+      <id>da6ffd2d-77fb-4534-822e-df5383251bed</id>
+      <masked>false</masked>
+      <name>city</name>
+   </variable>
+</TestCaseEntity>

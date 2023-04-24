@@ -1,0 +1,66 @@
+{
+  "keywordFileContentHash": "38F286EBB2B5CDBA3706A6262BFA6CAD",
+  "keywordClasses": [
+    {
+      "name": "Shop",
+      "keywordMethods": [
+        {
+          "name": "view",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    },
+    {
+      "name": "Shop1",
+      "keywordMethods": [
+        {
+          "name": "basket",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    },
+    {
+      "name": "Shop2",
+      "keywordMethods": [
+        {
+          "name": "price",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    },
+    {
+      "name": "Shop3",
+      "keywordMethods": [
+        {
+          "name": "total",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    },
+    {
+      "name": "Shop4",
+      "keywordMethods": [
+        {
+          "name": "check_sort",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    },
+    {
+      "name": "Shop5",
+      "keywordMethods": [
+        {
+          "name": "tax",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

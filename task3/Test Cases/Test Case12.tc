@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Chức năng cửa hàng - Thêm vào giỏ - xem giỏ - chức năng tính thuế</description>
+   <name>Test Case12</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9592cb8-765f-4e50-8b58-5e695462e583</testCaseGuid>
+</TestCaseEntity>

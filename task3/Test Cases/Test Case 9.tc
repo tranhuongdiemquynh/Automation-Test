@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Chức năng Shop-Sale. Khách hàng có thể nhấp vào sản phẩm được viết ở trang chủ . Sau đó có thể xem được giá thực tế với giá cũ của sản phẩm</description>
+   <name>Test Case 9</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f6809a4e-43ac-4395-aa21-88f8cba936c7</testCaseGuid>
+</TestCaseEntity>
